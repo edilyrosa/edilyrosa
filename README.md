@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Full-stack and multidisciplinary software engineer with a background in Law and a passion for building secure, scalable, and user-friendly web applications. Skilled in Next.js, React, Node.js, and PostgreSQL with a strong emphasis on UX/UI, security best practices (OWASP), and SEO optimization. Adept at collaborating on agile teams and delivering clean, maintainable code.
 <!--
 **edilyrosa/edilyrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
