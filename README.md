@@ -23,13 +23,23 @@
 ---
 
 ### 🧩 Featured Projects
-- 🎯 [SysProGestion](https://github.com/Dunel/SysProGestion) – Internship & community service management system for Maracaibo City
-- 🗂️ [System Archive](https://github.com/edilyrosa/system-archive) – Record management system for historical archives (1820–present)
-- 🌐 [LearnSEO](https://github.com/edilyrosa/learnseo) – SEO-friendly Next.js site optimized for performance
+- 🎯 [SysProGestion](https://github.com/Dunel/SysProGestion) –   Internship & community service management system built for the Maracaibo Mayor's Office, integrating student data across local universities.
+
+- 🗂️ [System Archive](https://github.com/edilyrosa/system-archive) – Desktop CRUD application to manage over 150,000 historical records (since 1820) for the Legal Council of Maracaibo using Electron, SQLite and Node.js.
+
+- 🌐 [LearnSEO](https://github.com/edilyrosa/learnseo) –  SEO-friendly Next.js learning platform featuring smooth UX, Lighthouse LCP score >90, and performance-first design.
+
+- 📖 [Revista App](https://github.com/edilyrosa/revista-app)  - SEO-optimized online magazine with low latency, built using modern frontend performance techniques.
+
+
+
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/edilymora)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://tusitioweb.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edily-mora-luzardo-115072186/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://portfolio-edily-mora.vercel.app/)
+
+
+
 
 
 <!--
