@@ -11,15 +11,16 @@
 ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilyrosa&layout=compact&theme=radical)
 
-ottroo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilyrosa&layout=compact)
+
 
 
 ### 🛠️ Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma)
 
