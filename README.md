@@ -11,6 +11,9 @@
 ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilyrosa&layout=compact&theme=radical)
 
+ottroo
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilyrosa&layout=compact)
+
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
